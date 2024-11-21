@@ -32,10 +32,6 @@ query {
 }
 ```
 
-## Testing
-- Run unit tests: `npm run test:unit`
-- Run integration tests: `npm run test:integration`
-
 ## Technologies
 - Node.js
 - Express
